@@ -1,0 +1,2 @@
+vẫn đề 1: Phần edit em sữa lại rồi nhưng mà nó vẫn báo lỗi ở ($content	= file_get_contents(FOLDER_DATA."/$id");)
+Vẫn đề 2:Phần delete em sữa lại rồi nhưng mà nó vẫn báo lỗi ở ($content	= file_get_contents(FOLDER_DATA."/$id");)
